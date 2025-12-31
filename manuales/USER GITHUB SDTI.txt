@@ -1,0 +1,11 @@
+gmail.com
+EMIAL 		--> ippi.desarrollo.tecnologias@puebla.gob.mx
+PASSWORD	--> Master201718
+
+github
+EMIAL 		--> ippi.desarrollo.tecnologias@puebla.gob.mx
+USERNAME 	--> SDTI-IPPI
+PASSWORD	--> @SDTI/2025ippi
+
+github pages
+https://sdti-ippi.github.io/SIEPI/

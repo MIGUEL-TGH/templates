@@ -1,0 +1,6 @@
+Operadores de Busqueda QGMAIL
+from: gmail@gmail.com
+to: gmail@gmail.com
+has: drive gmail@gmail.com
+
+from:scrimba.com
