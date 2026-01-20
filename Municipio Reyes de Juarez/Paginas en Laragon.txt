@@ -1,0 +1,10 @@
+carpeta --> sitio_mi_pagina
+BD 	--> sitio_mi_pagina
+	user --> root
+	pass --> 
+
+Sitio 
+	titulo	--> Mi pagina Laragon
+	user	--> admin
+	pass	--> Admin123+
+

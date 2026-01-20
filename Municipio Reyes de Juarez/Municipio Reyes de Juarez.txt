@@ -1,0 +1,39 @@
+Página Web
+	https://losreyesdejuarezpuebla.gob.mx
+
+WordPress
+	https://losreyesdejuarezpuebla.gob.mx/wp-admin/edit.php?post_type=page
+	Losreyes2124
+	PhgJmpdzNDOM9w5lPMcsJ*jV
+
+cPanel
+	https://losreyesdejuarezpuebla.gob.mx:2083/
+
+Facebook
+	https://www.facebook.com/ayuntamientolosreyesdejuarez
+
+	--> comunicacionlosreyesdejuarez@gmail.com
+	--> luis.paginasweb2021@gmail.com
+
+
+CONAC
+	--> Información Financiera Primer Trimestre 2024
+	--> Información Financiera Segundo Trimestre 2024
+	--> Información Financiera Tercer Trimestre 2024
+	--> Información Financiera Cuarto Trimestre 2024
+
+
+// ----------------------------------------------------------------------
+Sitio Prueba LocalWP
+user --> admin
+pass -->Admin123+
+
+
+// -----------------------LOCAL LARAGON-----------------------------------------------
+Los Reyes De Juárez
+	--> bd_los_reyes_de_juarez
+		user --> root
+		pass --> ""
+	--> wordpress
+		user --> admin
+		PASS --> T%r&eul7($tu6)N@K$

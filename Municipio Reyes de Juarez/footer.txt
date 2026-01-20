@@ -1,0 +1,25 @@
+<style>
+	.Titulo_enlace_01 {
+	background-color: #ffffff;
+	color: #184185;
+     }
+</style>
+<footer>
+<table boder= "1" style="width:100%;text-align:center;background-color:#ffffff;">
+<tr>
+	<th>
+	<div class="Titulo_enlace_01">
+		Secretaría de Planeación y Finanzas del Gobierno de Puebla
+	</div>
+		<a href="http://spf.puebla.gob.mx/" title="Enlace al sitio de la Secretaría de Planeación y Finanzas del Gobierno de Puebla">
+		<img alt="Enlace a la Secretaría de Planeación y Finanzas del Gobierno de Puebla" 
+			src="https://losreyesdejuarezpuebla.gob.mx/wp-content/uploads/2022/05/LogotipoSPF5.png"
+			width="200" 
+			height="120"
+			border="0"
+			style="border:1px" />
+		</a>
+</th>
+</tr>
+</table>
+</footer>
