@@ -16,15 +16,24 @@ Facebook
 	--> luis.paginasweb2021@gmail.com
 
 
+Paleta de colores:
+	--> Actual: #ABB8C3
+	--> #C2BA98
+	--> #65676B	
+	--> #D3C5A8
+	--> #62696A
+
 CONAC
-	--> Información Financiera Primer Trimestre 2024
-		--> D.2.1 Estado de Actividade
-		--> D.2.4 Estado de Cambios en la Situación Financiera
-		--> D.4.2 Indicadores de Resultados
-		...
-	--> Información Financiera Segundo Trimestre 2024
-	--> Información Financiera Tercer Trimestre 2024
-	--> Información Financiera Cuarto Trimestre 2024
+	--> Información Financiera Primer Trimestre
+	--> Información Financiera Segundo Trimestre
+	--> Información Financiera Tercer Trimestre
+	--> Información Financiera Cuarto Trimestre
+
+DISCIPLINA FINANCIERA
+	--> Disciplina Financiera Primer Trimestre
+	--> Disciplina Financiera Segundo Trimestre
+	--> Disciplina Financiera Tercer Trimestre
+	--> Disciplina Financiera Cuarto Trimestre
 
 
 // ----------------------------------------------------------------------
