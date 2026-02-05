@@ -24,16 +24,15 @@ Paleta de colores:
 	--> #62696A
 
 CONAC
-	--> Información Financiera Primer Trimestre
-	--> Información Financiera Segundo Trimestre
-	--> Información Financiera Tercer Trimestre
-	--> Información Financiera Cuarto Trimestre
+	https://losreyesdejuarezpuebla.gob.mx/conac-2018/
+	https://losreyesdejuarezpuebla.gob.mx/conac-2019/
+	https://losreyesdejuarezpuebla.gob.mx/conac-2020/
+	https://losreyesdejuarezpuebla.gob.mx/conac-2021/
 
-DISCIPLINA FINANCIERA
-	--> Disciplina Financiera Primer Trimestre
-	--> Disciplina Financiera Segundo Trimestre
-	--> Disciplina Financiera Tercer Trimestre
-	--> Disciplina Financiera Cuarto Trimestre
+	https://losreyesdejuarezpuebla.gob.mx/x-conac-2021/
+
+
+CONAC 2021 conac-2021
 
 
 // ----------------------------------------------------------------------
@@ -50,3 +49,26 @@ Los Reyes De Juárez
 	--> wordpress
 		user --> admin
 		PASS --> T%r&eul7($tu6)N@K$
+
+
+
+
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+    border: 1px solid;
+    border-color: #ccc #ccc #bbb;
+    border-radius: 3px;
+    background: #e6e6e6;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), inset 0 15px 17px rgba(255, 255, 255, 0.5), inset 0 -5px 12px rgba(0, 0, 0, 0.05);
+    color: rgba(0, 0, 0, .8);
+    font-size: 12px;
+    font-size: 0.75rem;
+    line-height: 1;
+    padding: .6em 1em .4em;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+    box-shadow: none;
+}
+
